@@ -2,7 +2,7 @@
 using ContosUniversity.Data;
 using System;
 using System.Linq;
-
+//random change
 namespace ContosUniversity.Data
 {
     public static class DbInitializer
